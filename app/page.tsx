@@ -259,7 +259,7 @@ export default function Portfolio() {
         <section id="projects" className="max-w-7xl mx-auto px-6 py-24 border-t border-white/20">
           <div className="mb-16 flex flex-col md:flex-row md:items-end justify-between gap-4">
             <div>
-              <h2 className="text-[10px] font-mono text-zinc-900 uppercase tracking-widest italic font-bold mb-4">// Live Deployments</h2>
+              <h2 className="text-[10px] font-mono text-zinc-900 uppercase tracking-widest italic font-bold mb-4">Live Deployments</h2>
               <p className="text-3xl font-black text-black tracking-tighter uppercase">Direct Previews</p>
             </div>
             <p className="text-[10px] font-bold text-zinc-700 bg-white/20 px-4 py-2 rounded-full border border-white/40">Interactive Sandbox Mode Active</p>
